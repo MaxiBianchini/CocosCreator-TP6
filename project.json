@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "Physics",
+  "id": "def0b31d-790f-49aa-91cc-591d6281a55b",
+  "version": "2.4.4",
+  "isNew": false
+}

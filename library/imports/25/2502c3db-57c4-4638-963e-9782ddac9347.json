@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Fondo",
+    "texture": "2eb0c2af-748b-4d85-a54d-ee15c48d230c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1920,
+      1422
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1920,
+      1422
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

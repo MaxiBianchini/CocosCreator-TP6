@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Nubes",
+    "texture": "256dc84e-bb3c-44a2-93d6-3231df765367",
+    "atlas": "",
+    "rect": [
+      43,
+      200,
+      426,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

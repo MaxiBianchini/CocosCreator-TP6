@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["Bloque","Suelo"],collisionMatrix:[[true,true],[true,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scenes/Menu.fire",orientation:"",jsList:[],bundleVers:{internal:"69b9a",main:"ba271"}};

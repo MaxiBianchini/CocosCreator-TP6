@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bloque",
+    "texture": "2906340a-9863-42fa-8620-e5ae2be76b44",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      145,
+      133
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      145,
+      133
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
